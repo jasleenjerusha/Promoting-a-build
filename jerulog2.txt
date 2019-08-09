@@ -1,0 +1,13 @@
+INFO:root:info
+WARNING:root:this is warning1
+file 2 running
+CRITICAL:root:critical
+WARNING:root:this is warning2
+INFO:root:info
+WARNING:root:this is warning3
+CRITICAL:root:critical
+WARNING:root:this is warning4
+
+
+
+

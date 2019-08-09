@@ -1,0 +1,8 @@
+Log information 
+INFO:root:info
+file 1 running
+WARNING:root:this is warning1
+CRITICAL:root:critical
+WARNING:root:this is warning2
+
+
